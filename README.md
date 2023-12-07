@@ -1,4 +1,4 @@
-# Note Taker App
+# Social Network API
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -13,7 +13,7 @@
 ## Description 
 This is a simple demonstration of how to build an API for a social network using express.js and MongoDB. 
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/fZZM2AxPE-c)](https://youtu.be/fZZM2AxPE-c)
+[![](https://markdown-videos-api.jorgenkh.no/youtube/YMRcqLhxr0w)](https://youtu.be/YMRcqLhxr0w)
 
 
 ## Installation 
