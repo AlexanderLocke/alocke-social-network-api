@@ -1,0 +1,22 @@
+{
+  "name": "alocke-social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server",
+    "seed": "node utils/seedData",
+    "heroku-postbuild": "node utils/seedData.js"
+  },
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "express": "^4.17.1",
+    "mongoose": "^7.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  }
+}
+
